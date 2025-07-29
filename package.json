@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "npx vite build",
-    "preview": "vite preview"
+  "dev": "vite",
+  "build": "npx vite build",
+  "preview": "vite preview"
   },
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.0.5",
